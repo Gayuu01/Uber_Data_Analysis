@@ -5,7 +5,7 @@ This project analyzes Uber ride data to uncover insights such as peak hours, pop
 
 ## 📂 Dataset
 - The dataset used in this project contains information about Uber trips, including pickup locations, drop-off locations, timestamps, and trip durations.
-- You can download the dataset from  -<a href="C:\Users\bhusa\Downloads\UberDataset.csv"> Dataset</a>
+- You can download the dataset from  -<a href="https://drive.google.com/file/d/1YlP6qwyybnk99izAmNUlryI6diJ9dlgB/view?usp=sharing"> Dataset</a>
 
 
 ## 🛠 Tools & Libraries
