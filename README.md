@@ -5,7 +5,7 @@ This project analyzes Uber ride data to uncover insights such as peak hours, pop
 
 ## 📂 Dataset
 - The dataset used in this project contains information about Uber trips, including pickup locations, drop-off locations, timestamps, and trip durations.
-- You can download the dataset from  <-href="C:\\Users\\bhusa\\Downloads\\UberDataset.csv">
+- You can download the dataset from  -<a href="C:\\Users\\bhusa\\Downloads\\UberDataset.csv"> Dataset</a>
 
 
 ## 🛠 Tools & Libraries
@@ -30,7 +30,7 @@ This project analyzes Uber ride data to uncover insights such as peak hours, pop
 
 ## 🚀 How to Run the Project
 1. Clone this repository:
-git clone https://github.com/your-username/uber-data-analysis.git 
+ -<a href = "https://github.com/Gayuu01/Uber_Data_Analysis"> git clone</a>
 
 2. Navigate to the project directory:
 - cd uber-data-analysis
