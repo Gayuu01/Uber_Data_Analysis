@@ -30,7 +30,7 @@ This project analyzes Uber ride data to uncover insights such as peak hours, pop
 
 ## 🚀 How to Run the Project
 1. Clone this repository:
-git clone https://github.com/your-username/uber-data-analysis.git
+git clone https://github.com/your-username/uber-data-analysis.git 
 
 2. Navigate to the project directory:
 - cd uber-data-analysis
